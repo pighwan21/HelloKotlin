@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f8da63-74d2-4bd0-a4ba-6a8a9657e4ae" name="변경" comment="1강~3강">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec04/JavaMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec04/Lec04jMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec04/Lec04kMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec04/Money.kt" afterDir="false" />
+    <list default="true" id="a3f8da63-74d2-4bd0-a4ba-6a8a9657e4ae" name="변경" comment="4강 : 코틀린에서 연산자를 다루는 방법">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec05/Lec05jMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec05/Lec05kMain.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/박창환/Downloads/java-to-kotlin-starter-guide-master/java-to-kotlin-starter-guide-master",
+    "last_opened_file_path": "C:/Pig/jnfirst/groupware-backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -154,7 +152,8 @@
       <workItem from="1684129626700" duration="3696000" />
       <workItem from="1684197861719" duration="1512000" />
       <workItem from="1684205847034" duration="40000" />
-      <workItem from="1684828985808" duration="15333000" />
+      <workItem from="1684828985808" duration="15912000" />
+      <workItem from="1684892026300" duration="8717000" />
     </task>
     <task id="LOCAL-00001" summary="1강~3강">
       <created>1684843680908</created>
@@ -163,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684843680908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4강 : 코틀린에서 연산자를 다루는 방법">
+      <created>1684848292116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684848292116</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +188,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1강~3강" />
-    <option name="LAST_COMMIT_MESSAGE" value="1강~3강" />
+    <MESSAGE value="4강 : 코틀린에서 연산자를 다루는 방법" />
+    <option name="LAST_COMMIT_MESSAGE" value="4강 : 코틀린에서 연산자를 다루는 방법" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

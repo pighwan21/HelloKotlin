@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f8da63-74d2-4bd0-a4ba-6a8a9657e4ae" name="변경" comment="5강 : 코틀린에서 조건문을 다루는 방법">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec06/Lec06jMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec06/Lec06kMain.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3f8da63-74d2-4bd0-a4ba-6a8a9657e4ae" name="변경" comment="Lec 06. 코틀린에서 반복문을 다루는 방법">
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec07/JavaFilePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec07/Lec07jMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec07/Lec07kMain.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Pig/jnfirst/groupware-backend",
+    "last_opened_file_path": "C:/Pig/study/HelloKotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +61,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Pig\study\HelloKotlin" />
       <recent name="C:\Pig\study\HelloKotlin\src\main\kotlin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -71,7 +73,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec06jMain">
+  <component name="RunManager" selected="Application.Lec07jMain">
     <configuration name="Lec04jMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lec04.Lec04jMain" />
       <module name="HelloKotlin" />
@@ -98,9 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec03kMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec03.Lec03kMainKt" />
+    <configuration name="Lec07jMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec07.Lec07jMain" />
       <module name="HelloKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lec07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec07jMain" />
         <item itemvalue="Application.Lec06jMain" />
         <item itemvalue="Kotlin.Lec06kMainKt" />
         <item itemvalue="Kotlin.Lec04kMainKt" />
         <item itemvalue="Application.Lec04jMain" />
-        <item itemvalue="Kotlin.Lec03kMainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +161,7 @@
       <workItem from="1684197861719" duration="1512000" />
       <workItem from="1684205847034" duration="40000" />
       <workItem from="1684828985808" duration="15912000" />
-      <workItem from="1684892026300" duration="15185000" />
+      <workItem from="1684892026300" duration="20492000" />
     </task>
     <task id="LOCAL-00001" summary="1강~3강">
       <created>1684843680908</created>
@@ -176,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684907244154</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lec 06. 코틀린에서 반복문을 다루는 방법">
+      <created>1684917976249</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684917976249</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +212,8 @@
     <MESSAGE value="1강~3강" />
     <MESSAGE value="4강 : 코틀린에서 연산자를 다루는 방법" />
     <MESSAGE value="5강 : 코틀린에서 조건문을 다루는 방법" />
-    <option name="LAST_COMMIT_MESSAGE" value="5강 : 코틀린에서 조건문을 다루는 방법" />
+    <MESSAGE value="Lec 06. 코틀린에서 반복문을 다루는 방법" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lec 06. 코틀린에서 반복문을 다루는 방법" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

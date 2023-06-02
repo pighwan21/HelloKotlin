@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f8da63-74d2-4bd0-a4ba-6a8a9657e4ae" name="변경" comment="// Lec 08. 코틀린에서 함수를 다루는 방법">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec09/JavaPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec09/Lec09jMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec09/Lec09kMain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/JavaAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/JavaCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/JavaFlyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/JavaPenguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/JavaSwimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/Lec10jMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/Lec10kMain.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lec09/Lec09jMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lec09/Lec09jMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +25,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -40,25 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Pig/study/HelloKotlin&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Pig/study/java-to-kotlin-starter-guide-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Pig\study\HelloKotlin" />
@@ -165,6 +171,7 @@
       <workItem from="1685495822342" duration="1208000" />
       <workItem from="1685598360335" duration="636000" />
       <workItem from="1685671582497" duration="10542000" />
+      <workItem from="1685695268190" duration="4416000" />
     </task>
     <task id="LOCAL-00001" summary="1강~3강">
       <created>1684843680908</created>

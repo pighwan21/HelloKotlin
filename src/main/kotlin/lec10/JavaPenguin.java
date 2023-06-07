@@ -1,6 +1,6 @@
 package lec10;
 
-public final class JavaPenguin extends JavaAnimal implements JavaFlyable, JavaSwimable {   // extends를 사용해 JavaAnimal을 상속
+public final class JavaPenguin extends JavaAnimal implements JavaSwimable, JavaFlyable {   // extends를 사용해 JavaAnimal을 상속
     private final int wingCount;            // wingCount라는 값이 존재해서
 
     public JavaPenguin(String species) {    // 생성자에서는 species만 받고

@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f8da63-74d2-4bd0-a4ba-6a8a9657e4ae" name="변경" comment="Lec 10. 코틀린에서 상속을 다루는 방법&#10;&#10;12:25 / 18:53">
+    <list default="true" id="a3f8da63-74d2-4bd0-a4ba-6a8a9657e4ae" name="변경" comment="Lec 10. 코틀린에서 상속을 다루는 방법">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec11/Lec11jMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec11/Lec11kMain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec11/StringUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lec10/JavaPenguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/JavaPenguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lec10/Lec10kMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lec10/Lec10kMain.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -161,7 +162,7 @@
       <workItem from="1685598360335" duration="636000" />
       <workItem from="1685671582497" duration="10542000" />
       <workItem from="1685695268190" duration="4467000" />
-      <workItem from="1686099091304" duration="3259000" />
+      <workItem from="1686099091304" duration="6704000" />
     </task>
     <task id="LOCAL-00001" summary="1강~3강">
       <created>1684843680908</created>
@@ -212,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685700569954</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lec 10. 코틀린에서 상속을 다루는 방법">
+      <created>1686106109752</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686106109752</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +245,8 @@
     <MESSAGE value="Lec 07. 코틀린에서 예외를 다루는 방법" />
     <MESSAGE value="// Lec 08. 코틀린에서 함수를 다루는 방법" />
     <MESSAGE value="Lec 10. 코틀린에서 상속을 다루는 방법&#10;&#10;12:25 / 18:53" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lec 10. 코틀린에서 상속을 다루는 방법&#10;&#10;12:25 / 18:53" />
+    <MESSAGE value="Lec 10. 코틀린에서 상속을 다루는 방법" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lec 10. 코틀린에서 상속을 다루는 방법" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

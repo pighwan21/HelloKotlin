@@ -143,7 +143,21 @@ fun main() {
 // Java와 함께 사용 할 때의 주의점
 // - Java는 읽기 전용 컬렉션과 변경 가능 컬렉션을 구분하지 않는다.
 // - Java는 nullable 타입과 non-nullable 타입을 구분하지 않는다.
+//  -> Kotlin 쪽의 컬렉션이 Java에서 호출되면 컬렉션 내용이 변할 수 있음을 감안해야 한다.
+//  -> 혹은 코틀린 쪽에서 Collections.unmodifableXXX()를 활용하면 변경 자체를 막을 수는 있다.
+// - Kotlin에서 Java 컬렉션을 가져다 사용할 때 플랫폼 타입을 신경 써야 한다.
+//  ex) 자바에서 List<Integer>를 Kotlin으로 주려하면 List<Int?>인지 List<Int>?인지 List<Int?>?인지 알 수 없다
+//      결국 이런경우 Java 코드를 보며, 맥락을 확인하고 Java 코드를 가져오는 지점을 wrapping한다.
 
+
+
+// Lec 15. 코틀린에서 배열과 컬렉션을 다루는 방법
+// 1. 배열의 사용법이 약간 다르다.
+// 2. Kotlin에서는 컬렉션을 만들 때도 불변/가변을 지정해야 한다.
+// 3. List, Set, Map에 대한 사용법이 변경, 확장되었다.
+// 4. Java와 Kotlin 코드를 섞어 컬렉션을 사용할 때에는 주의해야 한다.
+// - Java에서 Kotlin 컬렉션을 가져갈 때는 불변 컬렉션을 수정할 수도 있고, non-nullable 컬렉션에 null을 넣을 수도 있다.
+// - Kotlin에서 Java 컬렉션을 가져갈 때는 플랫폼타입을 주의해야 한다.
 
 
 

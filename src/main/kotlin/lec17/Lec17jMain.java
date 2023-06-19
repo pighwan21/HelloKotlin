@@ -117,4 +117,15 @@ public class Lec17jMain {
     // 바꿔 말하면, Java에서 함수는 변수에 할당되거나 파라미터로 전달할 수 없다.
     // 즉, 함수를 Java에서는 2급 시민으로 간주하고 변수에 직접 할당하거나 파라미터로 함수 자체를 바로 넘길 수 없다.
 
+    // 3. Closure
+//    public static void main(String[] args) {
+//        String targetFruitName = "바나나";
+//        targetFruitName = "수박";
+//        filterFruits(fruits, (fruit) -> targetFruitName.equals(fruit.getName()));
+//    }
+    // Variable used in lambda expression should be final or effectively final
+    // Java에서는 람다를 쓸 때 람다 밖에 있는 변수를 사용하는 경우 제약이 있다.
+
 }
+
+
